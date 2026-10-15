@@ -1,0 +1,6 @@
+streamlit
+groq
+pydantic
+pypdf
+python-docx
+python-dotenv
